@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "空はまるで",
+  "base_artist": "MONKEY MAJIK",
+  "createdAt": "2025-12-25T11:32:17.412422Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "空はまるで",
+      "artist": "MONKEY MAJIK",
+      "has_synced": true,
+      "path": "select/01_空はまるで_MONKEY_MAJIK.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "空はまるで -English Version-",
+      "artist": "MONKEY MAJIK",
+      "has_synced": true,
+      "path": "select/02_空はまるで_-English_Version-_MONKEY_MAJIK.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "空はまるで - From THE FIRST TAKE",
+      "artist": "Monkey Majik",
+      "has_synced": false,
+      "path": "select/03_空はまるで_-_From_THE_FIRST_TAKE_Monkey_Majik.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "空はまるで",
+      "artist": "MONKEY MAJIK",
+      "has_synced": true,
+      "path": "select/04_空はまるで_MONKEY_MAJIK.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "空はまるで",
+      "artist": "MONKEY MAJIK",
+      "has_synced": false,
+      "path": "select/05_空はまるで_MONKEY_MAJIK.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "空はまるで",
+      "artist": "MONKEY MAJIK",
+      "has_synced": false,
+      "path": "select/pl_01_空はまるで_MONKEY_MAJIK.txt"
+    }
+  ]
+}
